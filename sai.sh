@@ -1,3 +1,3 @@
-mkdir sai
-touch sai.txt
-touch ram.txt
+mkdir /root/sai
+touch /root/sai.txt
+touch /root/ram.txt
