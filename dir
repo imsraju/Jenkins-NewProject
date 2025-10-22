@@ -1,0 +1,4 @@
+echo "Hello Sai Ram"
+mkdir /root/sai
+cd /root/sai
+touch sai1.txt
